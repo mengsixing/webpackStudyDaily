@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "daily1/package.json",
+        "daily2/package.json",
+        "daily3/package.json",
+        "daily4/package.json",
+        "daily5/package.json",
+        "daily6/package.json",
+        "daily7/package.json"
+      ]
+    }
+  }
+}
